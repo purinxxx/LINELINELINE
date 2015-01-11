@@ -1,0 +1,8 @@
+C:\Users\kengo\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kengo\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LINELINELINE.csproj.GenerateResource.Cache
+C:\Users\kengo\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\LINELINELINE.exe.config
+C:\Users\kengo\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\LINELINELINE.exe
+C:\Users\kengo\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\LINELINELINE.pdb
+C:\Users\kengo\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LINELINELINE.Properties.Resources.resources
+C:\Users\kengo\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LINELINELINE.exe
+C:\Users\kengo\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LINELINELINE.pdb
